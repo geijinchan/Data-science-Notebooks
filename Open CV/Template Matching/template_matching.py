@@ -87,5 +87,3 @@ def classify_face(im):
 
 
 print(classify_face("test.jpg"))
-
-
