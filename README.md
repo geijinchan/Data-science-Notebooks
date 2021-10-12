@@ -16,7 +16,8 @@ _Note: Data used in the projects (accessed under database directory) is for demo
 
 	- [SMS Spam Detection](https://github.com/geijinchan/Data-science-Notebooks/blob/main/SMS%20Spam%20Detection%20with%20Machine%20Learning.ipynb): This Project is based on SMS Spam detection classification with Machine Learning. I have the multinomial Naive Bayes implementation..
 
-	- [WhatsApp Group Chat Analysis](https://github.com/geijinchan/Data-science-Notebooks/blob/main/WhatsApp%20Chat%20analysis.ipynb): A Machine Learning project on sentiment analysis with Python programming language..
+	- [WhatsApp Group Chat Analysis](https://github.com/geijinchan/Data-science-Notebooks/blob/main/WhatsApp%20Chat%20analysis.ipynb): A Machine Learning project on sentiment analysis with Python programming language.
+	
 	_Tools: NLTK, scikit,plotly,wordcloud_
 
 - ### Data Analysis and Visualisation
